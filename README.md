@@ -30,6 +30,5 @@ A comprehensive web application designed to manage tours, bookings, customer det
    git clone https://github.com/your-username/tour-management-app.git
    cd tour-management-app
    DATABASE_URL=your_database_url
-JWT_SECRET=your_jwt_secret
-PAYMENT_API_KEY=your_payment_api_key
+
 
