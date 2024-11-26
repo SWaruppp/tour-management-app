@@ -40,8 +40,4 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)  
 - [MongoDB](https://www.mongodb.com/)  
 
-### Steps  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/tour-management-app.git  
 
