@@ -1,19 +1,43 @@
-# Travel and Tourism Management System MERN
+# Tour Management App  
 
-# Screenshots
-![HomePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/504bb803-217d-402a-9087-fed08986d6b1)
-![BookPackagePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/9733432f-e462-4eff-819e-66cba510c8b6)
+A full-stack **Tour Management Application** developed using the **MERN stack** (MongoDB, Express.js, React, Node.js) to streamline tour booking and management processes. This application offers a seamless experience for both users and administrators with advanced features like user authentication, booking management, and secure payment integration.
 
-# Admin Panel
-![Screenshot (23)](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/8b4409ab-d8a5-4fd8-bc3d-987667fba72c)
-![AddPackageAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/79c05dd8-45f8-477d-801d-6d1432e042fe)
-![AllPaymentsAdminPage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/de0963bf-3f1b-47c4-ab0f-bbae33371150)
+---
 
-# .ENV
-MONGO_URL=your_mongo_url<br/>
-JWT_SECRET=secret<br/>
-BRAINTREE_MERCHANT_ID=your_braintree_id<br/>
-BRAINTREE_PUBLIC_KEY=your_braintree_public_key<br/>
-BRAINTREE_PRIVATE_KEY=your_braintree_private_key<br/>
-NODE_ENV_CUSTOM=devolopment/production<br/>
-SERVER_URL=your_server_url
+## Features  
+
+### User Features  
+- **User Authentication**: Secure sign-up, login, and role-based access control.  
+- **Tour Search & Booking**: Effortless tour browsing and booking functionality.  
+- **Payment Integration**: Powered by **Stripe** for safe and secure transactions.  
+
+### Admin Features  
+- **Admin Dashboard**: Manage tours, bookings, and user data with ease.  
+- **Tour Management**: Create, update, and delete tours.  
+- **Booking Overview**: Track and manage bookings in real-time.  
+
+### Design & Optimization  
+- **Responsive UI**: Designed to work flawlessly on desktops, tablets, and mobile devices.  
+- **Performance Optimized**: Ensures fast load times and smooth interactions.  
+
+---
+
+## Tech Stack  
+
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Payment Integration**: Stripe  
+
+---
+
+## Installation & Setup  
+
+Follow these steps to set up the project locally:  
+
+### Prerequisites  
+Ensure you have the following installed:  
+- [Node.js](https://nodejs.org/)  
+- [MongoDB](https://www.mongodb.com/)  
+
+
